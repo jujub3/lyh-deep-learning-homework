@@ -1,7 +1,39 @@
-# Deep Learning Homework
+# 李英华深度学习作业仓库
 
-This repository stores my deep learning course homework notebooks.
+本仓库用于集中管理深度学习课程的所有作业、实验 notebook 与后续提交记录。
 
-Current submissions:
+## 仓库说明
 
-- `结果/HW01-20234080324-李英华.ipynb`
+- 学生姓名：李英华
+- 学号：20234080324
+- 课程：深度学习
+- 仓库用途：统一保存课程作业与代码实现
+
+## 当前内容
+
+```text
+.
+├─ HW01-20234080324-李英华.ipynb
+├─ README.md
+└─ .gitignore
+```
+
+## 作业提交记录
+
+| 作业 | 文件 | 说明 |
+| --- | --- | --- |
+| HW01 | `HW01-20234080324-李英华.ipynb` | 作业 1 完整提交版 |
+
+## 运行环境
+
+当前 notebook 主要使用以下 Python 库：
+
+- `numpy`
+- `matplotlib`
+- `scikit-learn`
+- `torch`（仅用于自动求导验证，可选）
+
+## 说明
+
+- 课程原始课件与 PDF 不纳入仓库版本管理。
+- 后续 HW02、HW03 等作业将继续提交到本仓库中。 

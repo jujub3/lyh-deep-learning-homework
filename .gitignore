@@ -1,5 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
+*.pyc
 
 作业课件/
-结果/hw01_pages/
